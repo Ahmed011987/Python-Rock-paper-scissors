@@ -1,0 +1,45 @@
+🎮 Rock Paper Scissors – Python
+
+A simple command-line Rock, Paper, Scissors game built in Python as part of my Python learning journey. 🐍
+The game allows the user to play multiple rounds against the computer, keeps track of the score, and includes input validation to prevent invalid entries.
+
+✨ Features
+
+🎲 Play Rock, Paper, Scissors against the computer
+🖼️ ASCII art display for each move
+🔀 Random computer choices using Python's random module
+🔁 Continuous gameplay until the player chooses to stop
+📊 Score tracking for both player and computer
+🛡️ Input validation for:
+Player move selection
+Replay choice (Y/N)
+👤 Personalized gameplay using the player's name
+
+🧠 Concepts Practiced:
+
+This project helped reinforce several core Python concepts:
+📋 Lists
+🔀 Conditional statements (if, elif, else)
+🔁 while loops
+🧩 Nested loops
+✅ Input validation
+🎲 The random module
+🎮 Basic game logic
+📈 Variables and score tracking
+
+Example Gameplay
+What do you choose Ahmed? Type 0 for rock, 1 for paper, 2 for scissors
+
+0
+Computer Chose:
+1
+
+You lose!
+
+Current Scorecard: Ahmed : 0, Computer : 1
+
+Try the Game:
+
+Run the live version here:
+
+Replit:
